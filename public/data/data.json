@@ -1,0 +1,58 @@
+{
+  "personal_information": {
+    "name": "Virgilio A. Delfin Jr.",
+    "email": "vadjr27@gmail.com",
+    "phone": "+639121451306",
+    "address": "Progreso Village, Arao 2, Zone H, Vista Alegre, Bacolod City, Negros Occidental, 6100",
+    "objective": "To get an opportunity where I can make the best of my potential and contribute to the company’s growth."
+  },
+  "skills": [
+    { "id": 1, "name": "WordPress Site Development and Maintenance" },
+    { "id": 2, "name": "Search Engine Optimization" },
+    { "id": 3, "name": "Domain Setup, Backup and Recovery" },
+    { "id": 4, "name": "Computer Maintenance and Troubleshooting" }
+  ],
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP and MySQL",
+    "WordPress",
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Figma",
+    "Google Analytics",
+    "Google Search Console",
+    "HighLevel",
+    "Zapier",
+    "Visual Studio Code",
+    "Claude Code",
+    "Gemini",
+    "ChatGPT"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Technical Specialist",
+      "company": "Your Easy Web Solutions",
+      "duration": "November 2022 – June 2026"
+    },
+    {
+      "id": 2,
+      "role": "WordPress Developer",
+      "company": "CodezpacePH",
+      "duration": "August 2020 – July 2022"
+    },
+    {
+      "id": 3,
+      "role": "Web Developer",
+      "company": "Night Birds Solutions",
+      "duration": "December 2018 – June 2020"
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Information System",
+    "institution": "Bacolod City College",
+    "school_year": "2014 - 2018"
+  }
+}
