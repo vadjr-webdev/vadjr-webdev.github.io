@@ -1,4 +1,4 @@
-import vadjrImg from "../assets/vadjr.jpg";
+import vadjrImg from "../../../assets/vadjr.jpg";
 
 function AboutMe() {
   return (

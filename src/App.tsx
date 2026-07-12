@@ -4,10 +4,10 @@ import FeaturedProjects from "./components/layout/FeaturedProjects/FeaturedProje
 import TechStack from "./components/layout/TechStack/TechStack";
 // import HireMe from "./components/HireMe";
 import AboutMe from "./components/layout/AboutMe/AboutMe";
-import PortfolioData from "../public/data/data.json";
+// import PortfolioData from "../public/data/data.json";
 import WorkExperience from "./components/layout/WorkExperience/WorkExperience";
 
-const portfolioData = PortfolioData;
+// const portfolioData = PortfolioData;
 
 function App() {
   return (
